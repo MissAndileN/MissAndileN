@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>Voortrekker Monument</h1>
+</head>
+<body>
+
+    <img src="https://lh3.googleusercontent.com/p/AF1QipO4b7MWgJgNCfFiK6rXy-ls_6Q0PvpJxUHzlGVd=s680-w680-h510" alt="Voortrekker Monument image">
+    <h5><strong>Eeufees Rd, Groenkloof 358-Jr, Pretoria, 0027</strong>s</h5>
+    <h2>About Voortrekker Monument</h2>
+    <p>The <strong>Voortrekker Monument</strong> is located just south of Pretoria in South Africa. The granite structure is located on a hilltop, and was raised to commemorate the Voortrekkers who left the Cape Colony between 1835 and 1854.<br>It was designed by the architect <em>Gerard Moerdijk</em>.</p>
+    <h3>Purpose</h3>
+    <p>The <strong>Voortrekker Monument</strong> commemorates the epic exodus of disillusioned Boers from the Cape into the interior. This massive monument is ringed with <em>granite ox-wagons, and contains a frieze of Boer heroics</em> inside. The large grounds have been declared a National Nature Reserve, which abounds with small game.</p>
+    <h3>Back-Story</h3>
+    <p>The <strong>Voortrekker Monument</strong> in Pretoria, South Africa, was built in honor of the Voortrekkers—a group of Dutch settlers (or Afrikaners). The Voortrekkers left the British Cape Colony in the 1830s to found their own colonies in what is now South Africa. Their move is known as the Great Trek.</p>
+    <h3>Features</h3>
+    <p><ol><li>Visitors to the monument enter through a black wrought iron gate with an assegai (spear) motif.<br></li>
+
+    <li>After passing through the gate one finds oneself inside a big laager consisting of 64 ox-wagons made out of decorative granite.<br></li> <li>same number of wagons were used at the Battle of Blood River to form the laager.<br></li><li>At the foot of the monument stands Anton van Wouw's bronze sculpture of a Voortrekker woman and her two children, paying homage to the strength and courage of the Voortrekker women. both sides of this sculpture black wildebeest are chiselled into the walls of the monument.<br></li> <li>The wildebeest symbolically depicts the dangers of Africa and their symbolic flight implies that the woman, carrier of Western civilisation, is triumphant.<br></li>
+
+    <li>On each outside corner of the monument there is a statue, respectively representing Piet Retief, Andries Pretorius, Hendrik Potgieter and an "unknown" leader (representative of all the other Voortrekker leaders).<br></li><li> statue weighs approximately 6 tons.
+    
+    At the eastern corner of the monument, on the same level as its entrance, is the foundation stone.</li></ol></p>
+    <link href="https://www.sahra.org.za/voortrekker-monument/" rel="Voortrekker Monument">
+
+    <style>
+        h1 {
+            color: black;
+            text-align: center;
+        }
+        h5 {
+            text-align: center;
+            color: #555;
+        }
+        body {
+            background: burlywood; 
+        }
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            border: #555;
+        }
+    </style>
+    <p><a href="https://www.sahra.org.za/voortrekker-monument/" target="_blank">Voortrekker Monument</a></p>
+</body>
+</html>
