@@ -30,7 +30,7 @@
     <p>I am committed to continuous learning and professional growth, actively seeking opportunities to collaborate on innovative projects and contribute to open-source communities.
 </p>
    
-<p>📫 How to reach me <a href="mailto:aandile265@gmail.com">aandile265@gmail.com</a></p>
+<p>📫 How to reach me <a href="mailto:ntulindilee@gmail.com">ntulindilee@gmail.com</a></p>
 <p>📫 How to reach me <a href="www.linkedin.com/in/andile16">www.linkedin.com/in/andile16</a></p>
     
 </body>
