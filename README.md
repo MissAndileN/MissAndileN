@@ -1,54 +1,72 @@
 # Hi, I'm Andile Ntuli 👋
 
-**Aspiring Product Manager & Software Developer | IT Student | Python, C#, Java, SQL, JavaScript, HTML & CSS**
+**Penultimate-year Information Technology student (Graduating 2027)**  
+Aspiring **Product Manager & Software Developer** with a strong interest in fintech, digital payments, and building user-focused solutions.
 
-I am a penultimate-year Information Technology student (graduating 2027) passionate about building technology solutions that solve real-world problems and improve user experiences. I enjoy projects that combine **technology, data, and business thinking**, preparing me for a career in Product Management and fintech.
+I enjoy working at the intersection of **technology, data, and business**, and I am currently seeking **internship opportunities for Winter 2026** where I can learn, contribute, and grow in a real-world environment.
 
 ---
 
-## 🔹 Skills
+## 🔹 Technical Skills
 
 **Programming & Development:**  
-C#, Java, Python (data analysis & scripting), JavaScript, HTML, CSS  
+C#, Python, Java, JavaScript, HTML, CSS  
 
 **Databases & Data:**  
-SQL Server, PostgreSQL, MongoDB  
+SQL (Database Design & Queries), MongoDB  
 
-**Other Tools & Concepts:**  
-Git, GitHub, Visual Studio, VS Code, API integration, System Design, Agile methodologies, Product-focused thinking  
-
----
-
-## 🔹 Key Projects
-
-### 1. AFCON Football NoSQL Database
-- Built a **MongoDB database** to store and query player stats, match results, and team performance.  
-- Demonstrated **structured data modeling** and **analytical queries**.  
-- [View Repository](https://github.com/MissAndileN/AFCON-Database)
-
-### 2. Gym Management System (Windows Forms)
-- Developed a **full CRUD C# application** integrated with SQL Server and ADO.NET.  
-- Included **user authentication**, business logic, and **data integrity rules**.  
-- [View Repository](https://github.com/MissAndileN/Gym-Management-System)
-
-### 3. Weather API Web Application
-- Built a web app that fetches and displays **live weather data** using APIs.  
-- Focused on **user experience, responsive design**, and **API integration**.  
-- [View Repository](https://github.com/MissAndileN/Weather-Web-App)
-
-### 4. Portfolio Website (Backup)
-- Showcases my projects, skills, and contact info.  
-- Currently deployed on Netlify (if accepted, backup via GitHub Pages).  
-- [View Repository](https://github.com/MissAndileN/Portfolio)
+**Tools & Concepts:**  
+Git, GitHub, API Integration, System Design, Problem Solving, Product-Focused Thinking  
 
 ---
 
-## 🔹 Contact Me
+## 🔹 Featured Projects
 
-- Email: ntulindilee@gmail.com  
-- LinkedIn: [linkedin.com/in/andile16](https://www.linkedin.com/in/andile16)  
+### 📊 Database Development (SQL)
+- Designed and implemented **relational databases** using SQL.  
+- Focused on **data integrity, queries, and structured problem-solving**.  
+- Demonstrates analytical thinking and database fundamentals.
+- 🔗 [View Repository](https://github.com/MissAndileN/Database-Development-SQL-)
 
 ---
 
-> I am currently seeking **internship opportunities in Product Management, Fintech, and Software Development** for Winter 2026.  
-> Open to learning, collaborating, and contributing to impactful technology solutions.
+### 🏋️ Gym Management System
+- Developed a **C# application** to manage gym members and operations.  
+- Implemented **CRUD functionality** and database integration.  
+- Focused on logic, usability, and real-world business requirements.
+- 🔗 [View Repository](https://github.com/MissAndileN/Gym_Management-System)
+
+---
+
+### 🌐 Personal Portfolio Website
+- Personal portfolio showcasing my **skills, projects, and background**.  
+- Built using web technologies to present myself professionally.  
+- Acts as a central place to understand my work and interests.
+- 🔗 [View Repository](https://github.com/MissAndileN/Portfolio)
+
+---
+
+### 🛒 Gadget Website
+- Front-end web project demonstrating **HTML, CSS, and JavaScript** skills.  
+- Focus on layout, responsiveness, and user interface design.
+- 🔗 [View Repository](https://github.com/MissAndileN/gadget-website)
+
+---
+
+## 🔹 Career Interests
+
+- Product Management & Solutions  
+- Fintech & Digital Payments  
+- Software Development  
+- Data-driven decision making  
+
+---
+
+## 🔹 Contact
+
+- 📧 Email: ntulindilee@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/andile16  
+
+---
+
+> I am open to **internship opportunities** and eager to contribute, learn, and grow in a collaborative and innovative environment.
