@@ -1,6 +1,6 @@
 # Hi, I'm Andile Ntuli 👋
 
-**Penultimate-year Information Technology student (Graduating 2027)**  
+**Final-year Information Technology student (Graduating 2027)**  
 Aspiring **Product Manager & Software Developer** with a strong interest in fintech, digital payments, and building user-focused solutions.
 
 I enjoy working at the intersection of **technology, data, and business**, and I am currently seeking **internship opportunities for Winter 2026** where I can learn, contribute, and grow in a real-world environment.
